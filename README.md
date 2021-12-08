@@ -2,11 +2,6 @@
 
 Pokemon App with animations, beautiful UI and network call.
 
-## YouTube Tutorials
-### Hindi
-[Build a beautiful Pokemon App](https://youtu.be/0K3Zq3XqdAo)
-### English
-[Build a beautiful Pokemon App](https://youtu.be/yeXJqZCiwTQ)
 
 ## Screenshots
 
